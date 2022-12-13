@@ -1,8 +1,8 @@
 # INST760 Plotly Visualizations
 <div class="container-fluid" style="margin-top:40px">
-<iframe class="center"> 
-<img class="imgCenter" src="Max_Crimes_in_day.png">
-</iframe>
+
+<img src="Max_Crimes_in_day.png">
+
 
 <iframe class="center" src="top3_crimes_by_year.png" width="100%" height="500"></iframe>
 <iframe src="yearly_monthly crime rate comparsion.html" width="100%" height="500"></iframe>
